@@ -1,0 +1,481 @@
+Date,Region,Product,Currency,Unit,Price,Dollar_Change,Pct_Change
+10/14/2024,USA,Hot-Rolled Band,USD,Metric Tonne,762,0,0.0
+10/28/2024,USA,Hot-Rolled Band,USD,Metric Tonne,768,6,0.8
+11/11/2024,USA,Hot-Rolled Band,USD,Metric Tonne,773,5,0.7
+11/25/2024,USA,Hot-Rolled Band,USD,Metric Tonne,759,-14,-1.8
+12/9/2024,USA,Hot-Rolled Band,USD,Metric Tonne,752,-7,-0.9
+12/23/2024,USA,Hot-Rolled Band,USD,Metric Tonne,753,1,0.1
+1/13/2025,USA,Hot-Rolled Band,USD,Metric Tonne,758,5,0.7
+1/27/2025,USA,Hot-Rolled Band,USD,Metric Tonne,783,25,3.3
+2/10/2025,USA,Hot-Rolled Band,USD,Metric Tonne,784,1,0.1
+2/24/2025,USA,Hot-Rolled Band,USD,Metric Tonne,854,70,8.9
+3/10/2025,USA,Hot-Rolled Band,USD,Metric Tonne,958,104,12.2
+3/24/2025,USA,Hot-Rolled Band,USD,Metric Tonne,984,26,2.7
+4/14/2025,USA,Hot-Rolled Band,USD,Metric Tonne,1009,25,2.5
+4/28/2025,USA,Hot-Rolled Band,USD,Metric Tonne,1020,11,1.1
+5/12/2025,USA,Hot-Rolled Band,USD,Metric Tonne,1014,-6,-0.6
+5/26/2025,USA,Hot-Rolled Band,USD,Metric Tonne,993,-21,-2.1
+6/9/2025,USA,Hot-Rolled Band,USD,Metric Tonne,962,-31,-3.1
+6/23/2025,USA,Hot-Rolled Band,USD,Metric Tonne,960,-2,-0.2
+7/14/2025,USA,Hot-Rolled Band,USD,Metric Tonne,954,-6,-0.6
+7/28/2025,USA,Hot-Rolled Band,USD,Metric Tonne,962,8,0.8
+8/11/2025,USA,Hot-Rolled Band,USD,Metric Tonne,924,-38,-4.0
+8/25/2025,USA,Hot-Rolled Band,USD,Metric Tonne,911,-13,-1.4
+9/8/2025,USA,Hot-Rolled Band,USD,Metric Tonne,892,-19,-2.1
+9/22/2025,USA,Hot-Rolled Band,USD,Metric Tonne,891,-1,-0.1
+10/13/2025,USA,Hot-Rolled Band,USD,Metric Tonne,879,-12,-1.3
+10/27/2025,USA,Hot-Rolled Band,USD,Metric Tonne,898,19,2.2
+11/10/2025,USA,Hot-Rolled Band,USD,Metric Tonne,911,13,1.4
+11/24/2025,USA,Hot-Rolled Band,USD,Metric Tonne,912,1,0.1
+12/8/2025,USA,Hot-Rolled Band,USD,Metric Tonne,945,33,3.6
+12/22/2025,USA,Hot-Rolled Band,USD,Metric Tonne,976,31,3.3
+1/12/2026,USA,Hot-Rolled Band,USD,Metric Tonne,983,7,0.7
+1/26/2026,USA,Hot-Rolled Band,USD,Metric Tonne,978,-5,-0.5
+2/9/2026,USA,Hot-Rolled Band,USD,Metric Tonne,1023,45,4.6
+2/23/2026,USA,Hot-Rolled Band,USD,Metric Tonne,1042,19,1.9
+3/9/2026,USA,Hot-Rolled Band,USD,Metric Tonne,1057,15,1.4
+3/23/2026,USA,Hot-Rolled Band,USD,Metric Tonne,1083,26,2.5
+4/13/2026,USA,Hot-Rolled Band,USD,Metric Tonne,1133,50,4.6
+4/27/2026,USA,Hot-Rolled Band,USD,Metric Tonne,1153,20,1.8
+5/11/2026,USA,Hot-Rolled Band,USD,Metric Tonne,1155,2,0.2
+5/25/2026,USA,Hot-Rolled Band,USD,Metric Tonne,1169,14,1.2
+10/14/2024,USA,Cold-Rolled Coil,USD,Metric Tonne,1131,111,10.9
+10/28/2024,USA,Cold-Rolled Coil,USD,Metric Tonne,1139,8,0.7
+11/11/2024,USA,Cold-Rolled Coil,USD,Metric Tonne,1127,-12,-1.1
+11/25/2024,USA,Cold-Rolled Coil,USD,Metric Tonne,1080,-47,-4.2
+12/9/2024,USA,Cold-Rolled Coil,USD,Metric Tonne,958,-122,-11.3
+12/23/2024,USA,Cold-Rolled Coil,USD,Metric Tonne,970,12,1.3
+1/13/2025,USA,Cold-Rolled Coil,USD,Metric Tonne,954,-16,-1.6
+1/27/2025,USA,Cold-Rolled Coil,USD,Metric Tonne,995,41,4.3
+2/10/2025,USA,Cold-Rolled Coil,USD,Metric Tonne,962,-33,-3.3
+2/24/2025,USA,Cold-Rolled Coil,USD,Metric Tonne,1154,192,20.0
+3/10/2025,USA,Cold-Rolled Coil,USD,Metric Tonne,1200,46,4.0
+3/24/2025,USA,Cold-Rolled Coil,USD,Metric Tonne,1146,-54,-4.5
+4/14/2025,USA,Cold-Rolled Coil,USD,Metric Tonne,1100,-46,-4.0
+4/28/2025,USA,Cold-Rolled Coil,USD,Metric Tonne,1070,-30,-2.7
+5/12/2025,USA,Cold-Rolled Coil,USD,Metric Tonne,1225,155,14.5
+5/26/2025,USA,Cold-Rolled Coil,USD,Metric Tonne,1215,-10,-0.8
+6/9/2025,USA,Cold-Rolled Coil,USD,Metric Tonne,1143,-72,-5.9
+6/23/2025,USA,Cold-Rolled Coil,USD,Metric Tonne,1125,-18,-1.6
+7/14/2025,USA,Cold-Rolled Coil,USD,Metric Tonne,1052,-73,-6.5
+7/28/2025,USA,Cold-Rolled Coil,USD,Metric Tonne,1075,23,2.2
+8/11/2025,USA,Cold-Rolled Coil,USD,Metric Tonne,1160,85,7.9
+8/25/2025,USA,Cold-Rolled Coil,USD,Metric Tonne,1069,-91,-7.8
+9/8/2025,USA,Cold-Rolled Coil,USD,Metric Tonne,1158,89,8.3
+9/22/2025,USA,Cold-Rolled Coil,USD,Metric Tonne,1135,-23,-2.0
+10/13/2025,USA,Cold-Rolled Coil,USD,Metric Tonne,1125,-10,-0.9
+10/27/2025,USA,Cold-Rolled Coil,USD,Metric Tonne,1125,0,0.0
+11/10/2025,USA,Cold-Rolled Coil,USD,Metric Tonne,1125,0,0.0
+11/24/2025,USA,Cold-Rolled Coil,USD,Metric Tonne,1157,32,2.8
+12/8/2025,USA,Cold-Rolled Coil,USD,Metric Tonne,1157,0,0.0
+12/22/2025,USA,Cold-Rolled Coil,USD,Metric Tonne,1215,58,5.0
+1/12/2026,USA,Cold-Rolled Coil,USD,Metric Tonne,1242,27,2.2
+1/26/2026,USA,Cold-Rolled Coil,USD,Metric Tonne,1173,-69,-5.6
+2/9/2026,USA,Cold-Rolled Coil,USD,Metric Tonne,1233,60,5.1
+2/23/2026,USA,Cold-Rolled Coil,USD,Metric Tonne,1270,37,3.0
+3/9/2026,USA,Cold-Rolled Coil,USD,Metric Tonne,1290,20,1.6
+3/23/2026,USA,Cold-Rolled Coil,USD,Metric Tonne,1305,15,1.2
+4/13/2026,USA,Cold-Rolled Coil,USD,Metric Tonne,1325,20,1.5
+4/27/2026,USA,Cold-Rolled Coil,USD,Metric Tonne,1342,17,1.3
+5/11/2026,USA,Cold-Rolled Coil,USD,Metric Tonne,1390,48,3.6
+5/25/2026,USA,Cold-Rolled Coil,USD,Metric Tonne,1400,10,0.7
+10/14/2024,USA,Standard Plate,USD,Metric Tonne,1080,5,0.5
+10/28/2024,USA,Standard Plate,USD,Metric Tonne,1114,34,3.1
+11/11/2024,USA,Standard Plate,USD,Metric Tonne,1086,-28,-2.5
+11/25/2024,USA,Standard Plate,USD,Metric Tonne,1038,-48,-4.4
+12/9/2024,USA,Standard Plate,USD,Metric Tonne,1045,7,0.7
+12/23/2024,USA,Standard Plate,USD,Metric Tonne,1014,-31,-3.0
+1/13/2025,USA,Standard Plate,USD,Metric Tonne,948,-66,-6.5
+1/27/2025,USA,Standard Plate,USD,Metric Tonne,1051,103,10.9
+2/10/2025,USA,Standard Plate,USD,Metric Tonne,1077,26,2.5
+2/24/2025,USA,Standard Plate,USD,Metric Tonne,1120,43,4.0
+3/10/2025,USA,Standard Plate,USD,Metric Tonne,1403,283,25.3
+3/24/2025,USA,Standard Plate,USD,Metric Tonne,1356,-47,-3.3
+4/14/2025,USA,Standard Plate,USD,Metric Tonne,1359,3,0.2
+4/28/2025,USA,Standard Plate,USD,Metric Tonne,1370,11,0.8
+5/12/2025,USA,Standard Plate,USD,Metric Tonne,1370,0,0.0
+5/26/2025,USA,Standard Plate,USD,Metric Tonne,1368,-2,-0.1
+6/9/2025,USA,Standard Plate,USD,Metric Tonne,1325,-43,-3.1
+6/23/2025,USA,Standard Plate,USD,Metric Tonne,1280,-45,-3.4
+7/14/2025,USA,Standard Plate,USD,Metric Tonne,1235,-45,-3.5
+7/28/2025,USA,Standard Plate,USD,Metric Tonne,1215,-20,-1.6
+8/11/2025,USA,Standard Plate,USD,Metric Tonne,1215,0,0.0
+8/25/2025,USA,Standard Plate,USD,Metric Tonne,1190,-25,-2.1
+9/8/2025,USA,Standard Plate,USD,Metric Tonne,1190,0,0.0
+9/22/2025,USA,Standard Plate,USD,Metric Tonne,1157,-33,-2.8
+10/13/2025,USA,Standard Plate,USD,Metric Tonne,1160,3,0.3
+10/27/2025,USA,Standard Plate,USD,Metric Tonne,1160,0,0.0
+11/10/2025,USA,Standard Plate,USD,Metric Tonne,1150,-10,-0.9
+11/24/2025,USA,Standard Plate,USD,Metric Tonne,1146,-4,-0.3
+12/8/2025,USA,Standard Plate,USD,Metric Tonne,1147,1,0.1
+12/22/2025,USA,Standard Plate,USD,Metric Tonne,1148,1,0.1
+1/12/2026,USA,Standard Plate,USD,Metric Tonne,1146,-2,-0.2
+1/26/2026,USA,Standard Plate,USD,Metric Tonne,1160,14,1.2
+2/9/2026,USA,Standard Plate,USD,Metric Tonne,1180,20,1.7
+2/23/2026,USA,Standard Plate,USD,Metric Tonne,1248,68,5.8
+3/9/2026,USA,Standard Plate,USD,Metric Tonne,1248,0,0.0
+3/23/2026,USA,Standard Plate,USD,Metric Tonne,1290,42,3.4
+4/13/2026,USA,Standard Plate,USD,Metric Tonne,1320,30,2.3
+4/27/2026,USA,Standard Plate,USD,Metric Tonne,1370,50,3.8
+5/11/2026,USA,Standard Plate,USD,Metric Tonne,1370,0,0.0
+5/25/2026,USA,Standard Plate,USD,Metric Tonne,1370,0,0.0
+10/14/2024,China,Hot-Rolled Band,USD,Metric Tonne,438,62,16.5
+10/28/2024,China,Hot-Rolled Band,USD,Metric Tonne,414,-24,-5.5
+11/11/2024,China,Hot-Rolled Band,USD,Metric Tonne,420,6,1.4
+11/25/2024,China,Hot-Rolled Band,USD,Metric Tonne,408,-12,-2.9
+12/9/2024,China,Hot-Rolled Band,USD,Metric Tonne,408,0,0.0
+12/23/2024,China,Hot-Rolled Band,USD,Metric Tonne,408,0,0.0
+1/13/2025,China,Hot-Rolled Band,USD,Metric Tonne,386,-22,-5.4
+1/27/2025,China,Hot-Rolled Band,USD,Metric Tonne,405,19,4.9
+2/10/2025,China,Hot-Rolled Band,USD,Metric Tonne,396,-9,-2.2
+2/24/2025,China,Hot-Rolled Band,USD,Metric Tonne,401,5,1.3
+3/10/2025,China,Hot-Rolled Band,USD,Metric Tonne,395,-6,-1.5
+3/24/2025,China,Hot-Rolled Band,USD,Metric Tonne,392,-3,-0.8
+4/14/2025,China,Hot-Rolled Band,USD,Metric Tonne,381,-11,-2.8
+4/28/2025,China,Hot-Rolled Band,USD,Metric Tonne,380,-1,-0.3
+5/12/2025,China,Hot-Rolled Band,USD,Metric Tonne,380,0,0.0
+5/26/2025,China,Hot-Rolled Band,USD,Metric Tonne,384,4,1.1
+6/9/2025,China,Hot-Rolled Band,USD,Metric Tonne,376,-8,-2.1
+6/23/2025,China,Hot-Rolled Band,USD,Metric Tonne,375,-1,-0.3
+7/14/2025,China,Hot-Rolled Band,USD,Metric Tonne,385,10,2.7
+7/28/2025,China,Hot-Rolled Band,USD,Metric Tonne,410,25,6.5
+8/11/2025,China,Hot-Rolled Band,USD,Metric Tonne,405,-5,-1.2
+8/25/2025,China,Hot-Rolled Band,USD,Metric Tonne,402,-3,-0.7
+9/8/2025,China,Hot-Rolled Band,USD,Metric Tonne,401,-1,-0.2
+9/22/2025,China,Hot-Rolled Band,USD,Metric Tonne,416,15,3.7
+10/13/2025,China,Hot-Rolled Band,USD,Metric Tonne,410,-6,-1.4
+10/27/2025,China,Hot-Rolled Band,USD,Metric Tonne,401,-9,-2.2
+11/10/2025,China,Hot-Rolled Band,USD,Metric Tonne,399,-2,-0.5
+11/24/2025,China,Hot-Rolled Band,USD,Metric Tonne,399,0,0.0
+12/8/2025,China,Hot-Rolled Band,USD,Metric Tonne,403,4,1.0
+12/22/2025,China,Hot-Rolled Band,USD,Metric Tonne,401,-2,-0.5
+1/12/2026,China,Hot-Rolled Band,USD,Metric Tonne,405,4,1.0
+1/26/2026,China,Hot-Rolled Band,USD,Metric Tonne,405,0,0.0
+2/9/2026,China,Hot-Rolled Band,USD,Metric Tonne,405,0,0.0
+2/23/2026,China,Hot-Rolled Band,USD,Metric Tonne,407,2,0.5
+3/9/2026,China,Hot-Rolled Band,USD,Metric Tonne,405,-2,-0.5
+3/23/2026,China,Hot-Rolled Band,USD,Metric Tonne,413,8,2.0
+4/13/2026,China,Hot-Rolled Band,USD,Metric Tonne,416,3,0.7
+4/27/2026,China,Hot-Rolled Band,USD,Metric Tonne,425,9,2.2
+5/11/2026,China,Hot-Rolled Band,USD,Metric Tonne,441,16,3.8
+5/25/2026,China,Hot-Rolled Band,USD,Metric Tonne,434,-7,-1.6
+10/14/2024,China,Cold-Rolled Coil,USD,Metric Tonne,519,68,15.1
+10/28/2024,China,Cold-Rolled Coil,USD,Metric Tonne,497,-22,-4.2
+11/11/2024,China,Cold-Rolled Coil,USD,Metric Tonne,499,2,0.4
+11/25/2024,China,Cold-Rolled Coil,USD,Metric Tonne,489,-10,-2.0
+12/9/2024,China,Cold-Rolled Coil,USD,Metric Tonne,492,3,0.6
+12/23/2024,China,Cold-Rolled Coil,USD,Metric Tonne,501,9,1.8
+1/13/2025,China,Cold-Rolled Coil,USD,Metric Tonne,489,-12,-2.4
+1/27/2025,China,Cold-Rolled Coil,USD,Metric Tonne,501,12,2.5
+2/10/2025,China,Cold-Rolled Coil,USD,Metric Tonne,492,-9,-1.8
+2/24/2025,China,Cold-Rolled Coil,USD,Metric Tonne,494,2,0.4
+3/10/2025,China,Cold-Rolled Coil,USD,Metric Tonne,491,-3,-0.6
+3/24/2025,China,Cold-Rolled Coil,USD,Metric Tonne,486,-5,-1.0
+4/14/2025,China,Cold-Rolled Coil,USD,Metric Tonne,475,-11,-2.3
+4/28/2025,China,Cold-Rolled Coil,USD,Metric Tonne,469,-6,-1.3
+5/12/2025,China,Cold-Rolled Coil,USD,Metric Tonne,458,-11,-2.3
+5/26/2025,China,Cold-Rolled Coil,USD,Metric Tonne,455,-3,-0.7
+6/9/2025,China,Cold-Rolled Coil,USD,Metric Tonne,445,-10,-2.2
+6/23/2025,China,Cold-Rolled Coil,USD,Metric Tonne,442,-3,-0.7
+7/14/2025,China,Cold-Rolled Coil,USD,Metric Tonne,449,7,1.6
+7/28/2025,China,Cold-Rolled Coil,USD,Metric Tonne,474,25,5.6
+8/11/2025,China,Cold-Rolled Coil,USD,Metric Tonne,470,-4,-0.8
+8/25/2025,China,Cold-Rolled Coil,USD,Metric Tonne,473,3,0.6
+9/8/2025,China,Cold-Rolled Coil,USD,Metric Tonne,473,0,0.0
+9/22/2025,China,Cold-Rolled Coil,USD,Metric Tonne,489,16,3.4
+10/13/2025,China,Cold-Rolled Coil,USD,Metric Tonne,487,-2,-0.4
+10/27/2025,China,Cold-Rolled Coil,USD,Metric Tonne,482,-5,-1.0
+11/10/2025,China,Cold-Rolled Coil,USD,Metric Tonne,482,0,0.0
+11/24/2025,China,Cold-Rolled Coil,USD,Metric Tonne,483,1,0.2
+12/8/2025,China,Cold-Rolled Coil,USD,Metric Tonne,485,2,0.4
+12/22/2025,China,Cold-Rolled Coil,USD,Metric Tonne,485,0,0.0
+1/12/2026,China,Cold-Rolled Coil,USD,Metric Tonne,487,2,0.4
+1/26/2026,China,Cold-Rolled Coil,USD,Metric Tonne,486,-1,-0.2
+2/9/2026,China,Cold-Rolled Coil,USD,Metric Tonne,485,-1,-0.2
+2/23/2026,China,Cold-Rolled Coil,USD,Metric Tonne,487,2,0.4
+3/9/2026,China,Cold-Rolled Coil,USD,Metric Tonne,484,-3,-0.6
+3/23/2026,China,Cold-Rolled Coil,USD,Metric Tonne,490,6,1.2
+4/13/2026,China,Cold-Rolled Coil,USD,Metric Tonne,492,2,0.4
+4/27/2026,China,Cold-Rolled Coil,USD,Metric Tonne,497,5,1.0
+5/11/2026,China,Cold-Rolled Coil,USD,Metric Tonne,507,10,2.0
+5/25/2026,China,Cold-Rolled Coil,USD,Metric Tonne,506,-1,-0.2
+10/14/2024,China,Standard Plate,USD,Metric Tonne,449,62,16.0
+10/28/2024,China,Standard Plate,USD,Metric Tonne,427,-22,-4.9
+11/11/2024,China,Standard Plate,USD,Metric Tonne,427,0,0.0
+11/25/2024,China,Standard Plate,USD,Metric Tonne,416,-11,-2.6
+12/9/2024,China,Standard Plate,USD,Metric Tonne,415,-1,-0.2
+12/23/2024,China,Standard Plate,USD,Metric Tonne,419,4,1.0
+1/13/2025,China,Standard Plate,USD,Metric Tonne,400,-19,-4.5
+1/27/2025,China,Standard Plate,USD,Metric Tonne,413,13,3.3
+2/10/2025,China,Standard Plate,USD,Metric Tonne,405,-8,-1.9
+2/24/2025,China,Standard Plate,USD,Metric Tonne,409,4,1.0
+3/10/2025,China,Standard Plate,USD,Metric Tonne,406,-3,-0.7
+3/24/2025,China,Standard Plate,USD,Metric Tonne,404,-2,-0.5
+4/14/2025,China,Standard Plate,USD,Metric Tonne,405,1,0.2
+4/28/2025,China,Standard Plate,USD,Metric Tonne,407,2,0.5
+5/12/2025,China,Standard Plate,USD,Metric Tonne,412,5,1.2
+5/26/2025,China,Standard Plate,USD,Metric Tonne,414,2,0.5
+6/9/2025,China,Standard Plate,USD,Metric Tonne,408,-6,-1.4
+6/23/2025,China,Standard Plate,USD,Metric Tonne,404,-4,-1.0
+7/14/2025,China,Standard Plate,USD,Metric Tonne,403,-1,-0.2
+7/28/2025,China,Standard Plate,USD,Metric Tonne,417,14,3.5
+8/11/2025,China,Standard Plate,USD,Metric Tonne,415,-2,-0.5
+8/25/2025,China,Standard Plate,USD,Metric Tonne,414,-1,-0.2
+9/8/2025,China,Standard Plate,USD,Metric Tonne,414,0,0.0
+9/22/2025,China,Standard Plate,USD,Metric Tonne,428,14,3.4
+10/13/2025,China,Standard Plate,USD,Metric Tonne,424,-4,-0.9
+10/27/2025,China,Standard Plate,USD,Metric Tonne,418,-6,-1.4
+11/10/2025,China,Standard Plate,USD,Metric Tonne,416,-2,-0.5
+11/24/2025,China,Standard Plate,USD,Metric Tonne,414,-2,-0.5
+12/8/2025,China,Standard Plate,USD,Metric Tonne,416,2,0.5
+12/22/2025,China,Standard Plate,USD,Metric Tonne,416,0,0.0
+1/12/2026,China,Standard Plate,USD,Metric Tonne,417,1,0.2
+1/26/2026,China,Standard Plate,USD,Metric Tonne,417,0,0.0
+2/9/2026,China,Standard Plate,USD,Metric Tonne,417,0,0.0
+2/23/2026,China,Standard Plate,USD,Metric Tonne,418,1,0.2
+3/9/2026,China,Standard Plate,USD,Metric Tonne,417,-1,-0.2
+3/23/2026,China,Standard Plate,USD,Metric Tonne,424,7,1.7
+4/13/2026,China,Standard Plate,USD,Metric Tonne,428,4,0.9
+4/27/2026,China,Standard Plate,USD,Metric Tonne,434,6,1.4
+5/11/2026,China,Standard Plate,USD,Metric Tonne,452,18,4.1
+5/25/2026,China,Standard Plate,USD,Metric Tonne,451,-1,-0.2
+10/14/2024,China,Rebar,USD,Metric Tonne,448,60,15.5
+10/28/2024,China,Rebar,USD,Metric Tonne,415,-33,-7.4
+11/11/2024,China,Rebar,USD,Metric Tonne,410,-5,-1.2
+11/25/2024,China,Rebar,USD,Metric Tonne,389,-21,-5.1
+12/9/2024,China,Rebar,USD,Metric Tonne,388,-1,-0.3
+12/23/2024,China,Rebar,USD,Metric Tonne,396,8,2.1
+1/13/2025,China,Rebar,USD,Metric Tonne,379,-17,-4.3
+1/27/2025,China,Rebar,USD,Metric Tonne,396,17,4.5
+2/10/2025,China,Rebar,USD,Metric Tonne,388,-8,-2.0
+2/24/2025,China,Rebar,USD,Metric Tonne,391,3,0.8
+3/10/2025,China,Rebar,USD,Metric Tonne,383,-8,-2.0
+3/24/2025,China,Rebar,USD,Metric Tonne,374,-9,-2.3
+4/14/2025,China,Rebar,USD,Metric Tonne,366,-8,-2.1
+4/28/2025,China,Rebar,USD,Metric Tonne,367,1,0.3
+5/12/2025,China,Rebar,USD,Metric Tonne,368,1,0.3
+5/26/2025,China,Rebar,USD,Metric Tonne,368,0,0.0
+6/9/2025,China,Rebar,USD,Metric Tonne,363,-5,-1.4
+6/23/2025,China,Rebar,USD,Metric Tonne,361,-2,-0.6
+7/14/2025,China,Rebar,USD,Metric Tonne,371,10,2.8
+7/28/2025,China,Rebar,USD,Metric Tonne,392,21,5.7
+8/11/2025,China,Rebar,USD,Metric Tonne,383,-9,-2.3
+8/25/2025,China,Rebar,USD,Metric Tonne,376,-7,-1.8
+9/8/2025,China,Rebar,USD,Metric Tonne,374,-2,-0.5
+9/22/2025,China,Rebar,USD,Metric Tonne,386,12,3.2
+10/13/2025,China,Rebar,USD,Metric Tonne,381,-5,-1.3
+10/27/2025,China,Rebar,USD,Metric Tonne,375,-6,-1.6
+11/10/2025,China,Rebar,USD,Metric Tonne,376,1,0.3
+11/24/2025,China,Rebar,USD,Metric Tonne,381,5,1.3
+12/8/2025,China,Rebar,USD,Metric Tonne,392,11,2.9
+12/22/2025,China,Rebar,USD,Metric Tonne,392,0,0.0
+1/12/2026,China,Rebar,USD,Metric Tonne,398,6,1.5
+1/26/2026,China,Rebar,USD,Metric Tonne,396,-2,-0.5
+2/9/2026,China,Rebar,USD,Metric Tonne,395,-1,-0.3
+2/23/2026,China,Rebar,USD,Metric Tonne,397,2,0.5
+3/9/2026,China,Rebar,USD,Metric Tonne,396,-1,-0.3
+3/23/2026,China,Rebar,USD,Metric Tonne,402,6,1.5
+4/13/2026,China,Rebar,USD,Metric Tonne,402,0,0.0
+4/27/2026,China,Rebar,USD,Metric Tonne,411,9,2.2
+5/11/2026,China,Rebar,USD,Metric Tonne,424,13,3.2
+5/25/2026,China,Rebar,USD,Metric Tonne,418,-6,-1.4
+10/14/2024,Western Europe,Hot-Rolled Band,USD,Metric Tonne,600,0,0.0
+10/28/2024,Western Europe,Hot-Rolled Band,USD,Metric Tonne,606,6,1.0
+11/11/2024,Western Europe,Hot-Rolled Band,USD,Metric Tonne,600,-6,-1.0
+11/25/2024,Western Europe,Hot-Rolled Band,USD,Metric Tonne,580,-20,-3.3
+12/9/2024,Western Europe,Hot-Rolled Band,USD,Metric Tonne,588,8,1.4
+12/23/2024,Western Europe,Hot-Rolled Band,USD,Metric Tonne,582,-6,-1.0
+1/13/2025,Western Europe,Hot-Rolled Band,USD,Metric Tonne,587,5,0.9
+1/27/2025,Western Europe,Hot-Rolled Band,USD,Metric Tonne,610,23,3.9
+2/10/2025,Western Europe,Hot-Rolled Band,USD,Metric Tonne,625,15,2.5
+2/24/2025,Western Europe,Hot-Rolled Band,USD,Metric Tonne,635,10,1.6
+3/10/2025,Western Europe,Hot-Rolled Band,USD,Metric Tonne,690,55,8.7
+3/24/2025,Western Europe,Hot-Rolled Band,USD,Metric Tonne,690,0,0.0
+4/14/2025,Western Europe,Hot-Rolled Band,USD,Metric Tonne,740,50,7.2
+4/28/2025,Western Europe,Hot-Rolled Band,USD,Metric Tonne,750,10,1.4
+5/12/2025,Western Europe,Hot-Rolled Band,USD,Metric Tonne,715,-35,-4.7
+5/26/2025,Western Europe,Hot-Rolled Band,USD,Metric Tonne,715,0,0.0
+6/9/2025,Western Europe,Hot-Rolled Band,USD,Metric Tonne,685,-30,-4.2
+6/23/2025,Western Europe,Hot-Rolled Band,USD,Metric Tonne,665,-20,-2.9
+7/14/2025,Western Europe,Hot-Rolled Band,USD,Metric Tonne,630,-35,-5.3
+7/28/2025,Western Europe,Hot-Rolled Band,USD,Metric Tonne,635,5,0.8
+8/11/2025,Western Europe,Hot-Rolled Band,USD,Metric Tonne,665,30,4.7
+8/25/2025,Western Europe,Hot-Rolled Band,USD,Metric Tonne,670,5,0.8
+9/8/2025,Western Europe,Hot-Rolled Band,USD,Metric Tonne,675,5,0.7
+9/22/2025,Western Europe,Hot-Rolled Band,USD,Metric Tonne,672,-3,-0.4
+10/13/2025,Western Europe,Hot-Rolled Band,USD,Metric Tonne,675,3,0.4
+10/27/2025,Western Europe,Hot-Rolled Band,USD,Metric Tonne,700,25,3.7
+11/10/2025,Western Europe,Hot-Rolled Band,USD,Metric Tonne,710,10,1.4
+11/24/2025,Western Europe,Hot-Rolled Band,USD,Metric Tonne,705,-5,-0.7
+12/8/2025,Western Europe,Hot-Rolled Band,USD,Metric Tonne,712,7,1.0
+12/22/2025,Western Europe,Hot-Rolled Band,USD,Metric Tonne,735,23,3.2
+1/12/2026,Western Europe,Hot-Rolled Band,USD,Metric Tonne,735,0,0.0
+1/26/2026,Western Europe,Hot-Rolled Band,USD,Metric Tonne,770,35,4.8
+2/9/2026,Western Europe,Hot-Rolled Band,USD,Metric Tonne,775,5,0.6
+2/23/2026,Western Europe,Hot-Rolled Band,USD,Metric Tonne,780,5,0.6
+3/9/2026,Western Europe,Hot-Rolled Band,USD,Metric Tonne,815,35,4.5
+3/23/2026,Western Europe,Hot-Rolled Band,USD,Metric Tonne,818,3,0.4
+4/13/2026,Western Europe,Hot-Rolled Band,USD,Metric Tonne,840,22,2.7
+4/27/2026,Western Europe,Hot-Rolled Band,USD,Metric Tonne,830,-10,-1.2
+5/11/2026,Western Europe,Hot-Rolled Band,USD,Metric Tonne,820,-10,-1.2
+5/25/2026,Western Europe,Hot-Rolled Band,USD,Metric Tonne,800,-20,-2.4
+10/14/2024,World Export,Hot-Rolled Band,USD,Metric Tonne,485,5,1.0
+10/28/2024,World Export,Hot-Rolled Band,USD,Metric Tonne,515,30,6.2
+11/11/2024,World Export,Hot-Rolled Band,USD,Metric Tonne,525,10,1.9
+11/25/2024,World Export,Hot-Rolled Band,USD,Metric Tonne,505,-20,-3.8
+12/9/2024,World Export,Hot-Rolled Band,USD,Metric Tonne,496,-9,-1.8
+12/23/2024,World Export,Hot-Rolled Band,USD,Metric Tonne,490,-6,-1.2
+1/13/2025,World Export,Hot-Rolled Band,USD,Metric Tonne,486,-4,-0.8
+1/27/2025,World Export,Hot-Rolled Band,USD,Metric Tonne,475,-11,-2.3
+2/10/2025,World Export,Hot-Rolled Band,USD,Metric Tonne,480,5,1.1
+2/24/2025,World Export,Hot-Rolled Band,USD,Metric Tonne,488,8,1.7
+3/10/2025,World Export,Hot-Rolled Band,USD,Metric Tonne,460,-28,-5.7
+3/24/2025,World Export,Hot-Rolled Band,USD,Metric Tonne,440,-20,-4.3
+4/14/2025,World Export,Hot-Rolled Band,USD,Metric Tonne,445,5,1.1
+4/28/2025,World Export,Hot-Rolled Band,USD,Metric Tonne,465,20,4.5
+5/12/2025,World Export,Hot-Rolled Band,USD,Metric Tonne,470,5,1.1
+5/26/2025,World Export,Hot-Rolled Band,USD,Metric Tonne,450,-20,-4.3
+6/9/2025,World Export,Hot-Rolled Band,USD,Metric Tonne,440,-10,-2.2
+6/23/2025,World Export,Hot-Rolled Band,USD,Metric Tonne,440,0,0.0
+7/14/2025,World Export,Hot-Rolled Band,USD,Metric Tonne,470,30,6.8
+7/28/2025,World Export,Hot-Rolled Band,USD,Metric Tonne,466,-4,-0.9
+8/11/2025,World Export,Hot-Rolled Band,USD,Metric Tonne,485,19,4.1
+8/25/2025,World Export,Hot-Rolled Band,USD,Metric Tonne,480,-5,-1.0
+9/8/2025,World Export,Hot-Rolled Band,USD,Metric Tonne,462,-18,-3.8
+9/22/2025,World Export,Hot-Rolled Band,USD,Metric Tonne,485,23,5.0
+10/13/2025,World Export,Hot-Rolled Band,USD,Metric Tonne,475,-10,-2.1
+10/27/2025,World Export,Hot-Rolled Band,USD,Metric Tonne,470,-5,-1.1
+11/10/2025,World Export,Hot-Rolled Band,USD,Metric Tonne,470,0,0.0
+11/24/2025,World Export,Hot-Rolled Band,USD,Metric Tonne,468,-2,-0.4
+12/8/2025,World Export,Hot-Rolled Band,USD,Metric Tonne,465,-3,-0.6
+12/22/2025,World Export,Hot-Rolled Band,USD,Metric Tonne,460,-5,-1.1
+1/12/2026,World Export,Hot-Rolled Band,USD,Metric Tonne,458,-2,-0.4
+1/26/2026,World Export,Hot-Rolled Band,USD,Metric Tonne,455,-3,-0.7
+2/9/2026,World Export,Hot-Rolled Band,USD,Metric Tonne,460,5,1.1
+2/23/2026,World Export,Hot-Rolled Band,USD,Metric Tonne,470,10,2.2
+3/9/2026,World Export,Hot-Rolled Band,USD,Metric Tonne,465,-5,-1.1
+3/23/2026,World Export,Hot-Rolled Band,USD,Metric Tonne,472,7,1.5
+4/13/2026,World Export,Hot-Rolled Band,USD,Metric Tonne,495,23,4.9
+4/27/2026,World Export,Hot-Rolled Band,USD,Metric Tonne,498,3,0.6
+5/11/2026,World Export,Hot-Rolled Band,USD,Metric Tonne,505,7,1.4
+5/25/2026,World Export,Hot-Rolled Band,USD,Metric Tonne,515,10,2.0
+10/14/2024,USA,Steel Scrap - Heavy Melting,USD,Gross Ton,320,13,4.2
+10/28/2024,USA,Steel Scrap - Heavy Melting,USD,Gross Ton,320,0,0.0
+11/11/2024,USA,Steel Scrap - Heavy Melting,USD,Gross Ton,320,0,0.0
+11/25/2024,USA,Steel Scrap - Heavy Melting,USD,Gross Ton,320,0,0.0
+12/9/2024,USA,Steel Scrap - Heavy Melting,USD,Gross Ton,320,0,0.0
+12/23/2024,USA,Steel Scrap - Heavy Melting,USD,Gross Ton,320,0,0.0
+1/13/2025,USA,Steel Scrap - Heavy Melting,USD,Gross Ton,327,7,2.2
+1/27/2025,USA,Steel Scrap - Heavy Melting,USD,Gross Ton,334,7,2.1
+2/10/2025,USA,Steel Scrap - Heavy Melting,USD,Gross Ton,355,21,6.3
+2/24/2025,USA,Steel Scrap - Heavy Melting,USD,Gross Ton,375,20,5.6
+3/10/2025,USA,Steel Scrap - Heavy Melting,USD,Gross Ton,381,6,1.6
+3/24/2025,USA,Steel Scrap - Heavy Melting,USD,Gross Ton,395,14,3.7
+4/14/2025,USA,Steel Scrap - Heavy Melting,USD,Gross Ton,371,-24,-6.1
+4/28/2025,USA,Steel Scrap - Heavy Melting,USD,Gross Ton,365,-6,-1.6
+5/12/2025,USA,Steel Scrap - Heavy Melting,USD,Gross Ton,338,-27,-7.4
+5/26/2025,USA,Steel Scrap - Heavy Melting,USD,Gross Ton,322,-16,-4.7
+6/9/2025,USA,Steel Scrap - Heavy Melting,USD,Gross Ton,322,0,0.0
+6/23/2025,USA,Steel Scrap - Heavy Melting,USD,Gross Ton,322,0,0.0
+7/14/2025,USA,Steel Scrap - Heavy Melting,USD,Gross Ton,322,0,0.0
+7/28/2025,USA,Steel Scrap - Heavy Melting,USD,Gross Ton,322,0,0.0
+8/11/2025,USA,Steel Scrap - Heavy Melting,USD,Gross Ton,322,0,0.0
+8/25/2025,USA,Steel Scrap - Heavy Melting,USD,Gross Ton,321,-1,-0.3
+9/8/2025,USA,Steel Scrap - Heavy Melting,USD,Gross Ton,322,1,0.3
+9/22/2025,USA,Steel Scrap - Heavy Melting,USD,Gross Ton,321,-1,-0.3
+10/13/2025,USA,Steel Scrap - Heavy Melting,USD,Gross Ton,322,1,0.3
+10/27/2025,USA,Steel Scrap - Heavy Melting,USD,Gross Ton,322,0,0.0
+11/10/2025,USA,Steel Scrap - Heavy Melting,USD,Gross Ton,322,0,0.0
+11/24/2025,USA,Steel Scrap - Heavy Melting,USD,Gross Ton,322,0,0.0
+12/8/2025,USA,Steel Scrap - Heavy Melting,USD,Gross Ton,322,0,0.0
+12/22/2025,USA,Steel Scrap - Heavy Melting,USD,Gross Ton,342,20,6.2
+1/12/2026,USA,Steel Scrap - Heavy Melting,USD,Gross Ton,360,18,5.3
+1/26/2026,USA,Steel Scrap - Heavy Melting,USD,Gross Ton,372,12,3.3
+2/9/2026,USA,Steel Scrap - Heavy Melting,USD,Gross Ton,382,10,2.7
+2/23/2026,USA,Steel Scrap - Heavy Melting,USD,Gross Ton,397,15,3.9
+3/9/2026,USA,Steel Scrap - Heavy Melting,USD,Gross Ton,397,0,0.0
+3/23/2026,USA,Steel Scrap - Heavy Melting,USD,Gross Ton,397,0,0.0
+4/13/2026,USA,Steel Scrap - Heavy Melting,USD,Gross Ton,383,-14,-3.5
+4/27/2026,USA,Steel Scrap - Heavy Melting,USD,Gross Ton,377,-6,-1.6
+5/11/2026,USA,Steel Scrap - Heavy Melting,USD,Gross Ton,375,-2,-0.5
+5/25/2026,USA,Steel Scrap - Heavy Melting,USD,Gross Ton,370,-5,-1.3
+10/14/2024,USA,Steel Scrap - Shredded,USD,Gross Ton,386,15,4.0
+10/28/2024,USA,Steel Scrap - Shredded,USD,Gross Ton,386,0,0.0
+11/11/2024,USA,Steel Scrap - Shredded,USD,Gross Ton,385,-1,-0.3
+11/25/2024,USA,Steel Scrap - Shredded,USD,Gross Ton,381,-4,-1.0
+12/9/2024,USA,Steel Scrap - Shredded,USD,Gross Ton,381,0,0.0
+12/23/2024,USA,Steel Scrap - Shredded,USD,Gross Ton,369,-12,-3.1
+1/13/2025,USA,Steel Scrap - Shredded,USD,Gross Ton,386,17,4.6
+1/27/2025,USA,Steel Scrap - Shredded,USD,Gross Ton,389,3,0.8
+2/10/2025,USA,Steel Scrap - Shredded,USD,Gross Ton,412,23,5.9
+2/24/2025,USA,Steel Scrap - Shredded,USD,Gross Ton,431,19,4.6
+3/10/2025,USA,Steel Scrap - Shredded,USD,Gross Ton,431,0,0.0
+3/24/2025,USA,Steel Scrap - Shredded,USD,Gross Ton,459,28,6.5
+4/14/2025,USA,Steel Scrap - Shredded,USD,Gross Ton,419,-40,-8.7
+4/28/2025,USA,Steel Scrap - Shredded,USD,Gross Ton,419,0,0.0
+5/12/2025,USA,Steel Scrap - Shredded,USD,Gross Ton,378,-41,-9.8
+5/26/2025,USA,Steel Scrap - Shredded,USD,Gross Ton,378,0,0.0
+6/9/2025,USA,Steel Scrap - Shredded,USD,Gross Ton,378,0,0.0
+6/23/2025,USA,Steel Scrap - Shredded,USD,Gross Ton,378,0,0.0
+7/14/2025,USA,Steel Scrap - Shredded,USD,Gross Ton,378,0,0.0
+7/28/2025,USA,Steel Scrap - Shredded,USD,Gross Ton,378,0,0.0
+8/11/2025,USA,Steel Scrap - Shredded,USD,Gross Ton,378,0,0.0
+8/25/2025,USA,Steel Scrap - Shredded,USD,Gross Ton,378,0,0.0
+9/8/2025,USA,Steel Scrap - Shredded,USD,Gross Ton,378,0,0.0
+9/22/2025,USA,Steel Scrap - Shredded,USD,Gross Ton,378,0,0.0
+10/13/2025,USA,Steel Scrap - Shredded,USD,Gross Ton,368,-10,-2.6
+10/27/2025,USA,Steel Scrap - Shredded,USD,Gross Ton,370,2,0.5
+11/10/2025,USA,Steel Scrap - Shredded,USD,Gross Ton,370,0,0.0
+11/24/2025,USA,Steel Scrap - Shredded,USD,Gross Ton,368,-2,-0.5
+12/8/2025,USA,Steel Scrap - Shredded,USD,Gross Ton,370,2,0.5
+12/22/2025,USA,Steel Scrap - Shredded,USD,Gross Ton,390,20,5.4
+1/12/2026,USA,Steel Scrap - Shredded,USD,Gross Ton,408,18,4.6
+1/26/2026,USA,Steel Scrap - Shredded,USD,Gross Ton,420,12,2.9
+2/9/2026,USA,Steel Scrap - Shredded,USD,Gross Ton,435,15,3.6
+2/23/2026,USA,Steel Scrap - Shredded,USD,Gross Ton,450,15,3.4
+3/9/2026,USA,Steel Scrap - Shredded,USD,Gross Ton,450,0,0.0
+3/23/2026,USA,Steel Scrap - Shredded,USD,Gross Ton,450,0,0.0
+4/13/2026,USA,Steel Scrap - Shredded,USD,Gross Ton,436,-14,-3.1
+4/27/2026,USA,Steel Scrap - Shredded,USD,Gross Ton,430,-6,-1.4
+5/11/2026,USA,Steel Scrap - Shredded,USD,Gross Ton,430,0,0.0
+5/25/2026,USA,Steel Scrap - Shredded,USD,Gross Ton,430,0,0.0
+10/14/2024,USA,Steel Scrap - Busheling,USD,Gross Ton,395,10,2.6
+10/28/2024,USA,Steel Scrap - Busheling,USD,Gross Ton,398,3,0.8
+11/11/2024,USA,Steel Scrap - Busheling,USD,Gross Ton,398,0,0.0
+11/25/2024,USA,Steel Scrap - Busheling,USD,Gross Ton,395,-3,-0.8
+12/9/2024,USA,Steel Scrap - Busheling,USD,Gross Ton,395,0,0.0
+12/23/2024,USA,Steel Scrap - Busheling,USD,Gross Ton,386,-9,-2.3
+1/13/2025,USA,Steel Scrap - Busheling,USD,Gross Ton,394,8,2.1
+1/27/2025,USA,Steel Scrap - Busheling,USD,Gross Ton,415,21,5.3
+2/10/2025,USA,Steel Scrap - Busheling,USD,Gross Ton,421,6,1.4
+2/24/2025,USA,Steel Scrap - Busheling,USD,Gross Ton,450,29,6.9
+3/10/2025,USA,Steel Scrap - Busheling,USD,Gross Ton,457,7,1.6
+3/24/2025,USA,Steel Scrap - Busheling,USD,Gross Ton,479,22,4.8
+4/14/2025,USA,Steel Scrap - Busheling,USD,Gross Ton,461,-18,-3.8
+4/28/2025,USA,Steel Scrap - Busheling,USD,Gross Ton,457,-4,-0.9
+5/12/2025,USA,Steel Scrap - Busheling,USD,Gross Ton,437,-20,-4.4
+5/26/2025,USA,Steel Scrap - Busheling,USD,Gross Ton,427,-10,-2.3
+6/9/2025,USA,Steel Scrap - Busheling,USD,Gross Ton,427,0,0.0
+6/23/2025,USA,Steel Scrap - Busheling,USD,Gross Ton,427,0,0.0
+7/14/2025,USA,Steel Scrap - Busheling,USD,Gross Ton,427,0,0.0
+7/28/2025,USA,Steel Scrap - Busheling,USD,Gross Ton,427,0,0.0
+8/11/2025,USA,Steel Scrap - Busheling,USD,Gross Ton,427,0,0.0
+8/25/2025,USA,Steel Scrap - Busheling,USD,Gross Ton,430,3,0.7
+9/8/2025,USA,Steel Scrap - Busheling,USD,Gross Ton,427,-3,-0.7
+9/22/2025,USA,Steel Scrap - Busheling,USD,Gross Ton,407,-20,-4.7
+10/13/2025,USA,Steel Scrap - Busheling,USD,Gross Ton,392,-15,-3.7
+10/27/2025,USA,Steel Scrap - Busheling,USD,Gross Ton,387,-5,-1.3
+11/10/2025,USA,Steel Scrap - Busheling,USD,Gross Ton,387,0,0.0
+11/24/2025,USA,Steel Scrap - Busheling,USD,Gross Ton,387,0,0.0
+12/8/2025,USA,Steel Scrap - Busheling,USD,Gross Ton,387,0,0.0
+12/22/2025,USA,Steel Scrap - Busheling,USD,Gross Ton,399,12,3.1
+1/12/2026,USA,Steel Scrap - Busheling,USD,Gross Ton,411,12,3.0
+1/26/2026,USA,Steel Scrap - Busheling,USD,Gross Ton,419,8,1.9
+2/9/2026,USA,Steel Scrap - Busheling,USD,Gross Ton,434,15,3.6
+2/23/2026,USA,Steel Scrap - Busheling,USD,Gross Ton,449,15,3.5
+3/9/2026,USA,Steel Scrap - Busheling,USD,Gross Ton,449,0,0.0
+3/23/2026,USA,Steel Scrap - Busheling,USD,Gross Ton,449,0,0.0
+4/13/2026,USA,Steel Scrap - Busheling,USD,Gross Ton,450,1,0.2
+4/27/2026,USA,Steel Scrap - Busheling,USD,Gross Ton,450,0,0.0
+5/11/2026,USA,Steel Scrap - Busheling,USD,Gross Ton,457,7,1.6
+5/25/2026,USA,Steel Scrap - Busheling,USD,Gross Ton,455,-2,-0.4
